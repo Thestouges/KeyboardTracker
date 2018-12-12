@@ -1,0 +1,9 @@
+c:\users\silentsky\documents\visual studio 2017\Projects\KeyboardTracker\KeyboardTracker\bin\Debug\KeyboardTracker.exe.config
+c:\users\silentsky\documents\visual studio 2017\Projects\KeyboardTracker\KeyboardTracker\bin\Debug\KeyboardTracker.exe
+c:\users\silentsky\documents\visual studio 2017\Projects\KeyboardTracker\KeyboardTracker\bin\Debug\KeyboardTracker.pdb
+c:\users\silentsky\documents\visual studio 2017\Projects\KeyboardTracker\KeyboardTracker\obj\Debug\KeyboardTracker.csprojResolveAssemblyReference.cache
+c:\users\silentsky\documents\visual studio 2017\Projects\KeyboardTracker\KeyboardTracker\obj\Debug\KeyboardTracker.Form1.resources
+c:\users\silentsky\documents\visual studio 2017\Projects\KeyboardTracker\KeyboardTracker\obj\Debug\KeyboardTracker.Properties.Resources.resources
+c:\users\silentsky\documents\visual studio 2017\Projects\KeyboardTracker\KeyboardTracker\obj\Debug\KeyboardTracker.csproj.GenerateResource.Cache
+c:\users\silentsky\documents\visual studio 2017\Projects\KeyboardTracker\KeyboardTracker\obj\Debug\KeyboardTracker.exe
+c:\users\silentsky\documents\visual studio 2017\Projects\KeyboardTracker\KeyboardTracker\obj\Debug\KeyboardTracker.pdb

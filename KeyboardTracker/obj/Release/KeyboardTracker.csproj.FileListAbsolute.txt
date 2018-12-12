@@ -1,0 +1,8 @@
+C:\Users\SilentSky\documents\visual studio 2017\Projects\KeyboardTracker\KeyboardTracker\bin\Release\KeyboardTracker.exe.config
+C:\Users\SilentSky\documents\visual studio 2017\Projects\KeyboardTracker\KeyboardTracker\bin\Release\KeyboardTracker.exe
+C:\Users\SilentSky\documents\visual studio 2017\Projects\KeyboardTracker\KeyboardTracker\bin\Release\KeyboardTracker.pdb
+C:\Users\SilentSky\documents\visual studio 2017\Projects\KeyboardTracker\KeyboardTracker\obj\Release\KeyboardTracker.Form1.resources
+C:\Users\SilentSky\documents\visual studio 2017\Projects\KeyboardTracker\KeyboardTracker\obj\Release\KeyboardTracker.Properties.Resources.resources
+C:\Users\SilentSky\documents\visual studio 2017\Projects\KeyboardTracker\KeyboardTracker\obj\Release\KeyboardTracker.csproj.GenerateResource.Cache
+C:\Users\SilentSky\documents\visual studio 2017\Projects\KeyboardTracker\KeyboardTracker\obj\Release\KeyboardTracker.exe
+C:\Users\SilentSky\documents\visual studio 2017\Projects\KeyboardTracker\KeyboardTracker\obj\Release\KeyboardTracker.pdb
